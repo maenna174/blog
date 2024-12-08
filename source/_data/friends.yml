@@ -1,0 +1,15 @@
+- group: # 分组标题
+  description:  # 分组描述
+  items:
+    - title: bobo's blog # 名称
+      avatar: https://free4.yunpng.top/2024/11/22/67408ca903d2a.jpg # 头像
+      url: http://123.60.40.63:4000 # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
+    - title: C++学习知识库 # 名称
+      avatar: https://free4.yunpng.top/2024/11/22/6740a6f578827.jpg # 头像
+      url: http://113.44.67.89 # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
