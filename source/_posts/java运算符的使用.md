@@ -2,7 +2,7 @@
 title: java运算符的使用
 date: 2024-11-22 00:55:55
 tags:
-- Java
+- java
 ---
 # 加减乘除
 % 的本质是 a - a  /  b ＊ b  

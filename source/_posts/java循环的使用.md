@@ -2,7 +2,7 @@
 title: java循环的使用
 date: 2024-11-22 13:44:11
 tags:
-- Java
+- java
 ---
 ## switch
 switch使用的基本语法

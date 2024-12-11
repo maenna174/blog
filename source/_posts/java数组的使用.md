@@ -2,7 +2,7 @@
 title: java数组的使用
 date: 2024-11-22 00:43:31
 tags:
-- Java
+- java
 ---
 # 数组的使用
 数组名 + [ length ] 得到数组长度/大小  
